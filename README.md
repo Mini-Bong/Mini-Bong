@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on India.
+- 🔭 I’m currently working in India.
 - 🌱 I’m currently learning ML.
 - 👯 I’m looking to collaborators with India.
 - 💬 Ask me about C++/Python
